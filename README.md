@@ -1,7 +1,7 @@
-## Statistics
-This branch will explore and practice concepts related to statistics in AI and data science.
+## Econometrics
+This branch will explore and practice concepts econometrics in AI and data science.
 
-![ ](images/2-statistics.png)
+![ ](images/3-econometrics.png)
 
 </br>
 </br>
