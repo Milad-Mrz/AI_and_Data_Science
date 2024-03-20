@@ -1,9 +1,7 @@
 ## Mathematics
 This branch will explore and practice concepts related to basic mathematics in AI and data science.
 
-<div style="text-align:center">
-    <img src="images/1-math.png" alt=" ">
-</div>
+![ ](images/1-math.png)
 
 </br>
 </br>
