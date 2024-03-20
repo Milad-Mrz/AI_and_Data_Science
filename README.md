@@ -1,7 +1,7 @@
-## Coding
-This branch will explore and practice coding in AI and data science.
+## Exploratory data analysis (EDA)
+This branch will explore and practice exploratory data analysis.
 
-![ ](images/4-coding.png)
+![ ](images/5-EDA.png)
 
 </br>
 </br>
