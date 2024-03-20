@@ -1,5 +1,5 @@
 ## Econometrics
-This branch will explore and practice concepts econometrics in AI and data science.
+This branch will explore and practice concepts related to econometrics in AI and data science.
 
 ![ ](images/3-econometrics.png)
 
