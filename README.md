@@ -1,7 +1,7 @@
-## Exploratory data analysis (EDA)
-This branch will explore and practice exploratory data analysis.
+## Machine Learning
+This branch will explore and practice machine learning.
 
-![ ](images/5-EDA.png)
+![ ](images/6-ML.png)
 
 </br>
 </br>
