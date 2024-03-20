@@ -1,7 +1,7 @@
-## Econometrics
-This branch will explore and practice concepts econometrics in AI and data science.
+## Coding
+This branch will explore and practice coding in AI and data science.
 
-![ ](images/3-econometrics.png)
+![ ](images/4-coding.png)
 
 </br>
 </br>
