@@ -1,7 +1,7 @@
-## Mathematics
-This branch will explore and practice concepts related to basic mathematics in AI and data science.
+## Statistics
+This branch will explore and practice concepts related to statistics in AI and data science.
 
-![ ](images/1-math.png)
+![ ](images/2-statistics.png)
 
 </br>
 </br>
