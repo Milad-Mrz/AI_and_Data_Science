@@ -1,7 +1,7 @@
-## Deep Learning
-This branch will explore and practice deep learning.
+## Machine Learning Operations (MLOps)
+This branch will explore and practice machine learning production. MLOps is a core function of Machine Learning engineering, focused on streamlining the process of taking machine learning models to production, maintaining and monitoring them.
 
-![ ](images/7-DL.png)
+![ ](images/8-MLOps.png)
 
 </br>
 </br>
