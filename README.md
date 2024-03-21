@@ -1,7 +1,7 @@
-## Machine Learning
-This branch will explore and practice machine learning.
+## Deep Learning
+This branch will explore and practice deep learning.
 
-![ ](images/6-ML.png)
+![ ](images/7-DL.png)
 
 </br>
 </br>
